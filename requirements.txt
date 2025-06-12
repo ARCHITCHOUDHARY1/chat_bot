@@ -1,0 +1,13 @@
+streamlit
+langchain
+psycopg2-binary
+redis 
+python-docx 
+PyPDF2 
+sentence-transformers 
+faiss-cpu 
+fpdf 
+beautifulsoup4
+dotenv
+streamlit_ace
+requests
