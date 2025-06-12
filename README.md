@@ -101,9 +101,8 @@ streamlit run main_app.py
 ---
 
 ## 📸 Screenshots
-![Screenshot (24)](https://github.com/user-attachments/assets/b8056864-4c12-4303-8eb8-83402b26eeee)
-![Screenshot (25)](https://github.com/user-attachments/assets/766ceb5d-1aea-4160-b22b-b13ee09a81c6)
-
+![Screenshot (24)](https://github.com/user-attachments/assets/130bae29-72a3-47ed-b214-82f190b9d070)
+![Screenshot (25)](https://github.com/user-attachments/assets/e41faa01-56b1-4bbd-b2d4-735eef01ae1b)
 
 > *(Include UI screenshots here for better visual reference.)*
 
